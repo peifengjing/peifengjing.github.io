@@ -1,4 +1,4 @@
-# Peifeng's Blog
+# My Smart Notebook
 
 ## How to develop
 Add `YYYY-MM-DD-name.markdown` file to `_posts/`
